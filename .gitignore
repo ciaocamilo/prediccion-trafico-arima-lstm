@@ -1,0 +1,5 @@
+desktop.ini
+*.csv
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
